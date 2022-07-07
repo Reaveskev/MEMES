@@ -14,8 +14,10 @@ img {
 .meme-container {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
-  width: 121.5%;
+  width: 100%;
   height: auto;
 }
 
@@ -30,7 +32,7 @@ img {
   width: 18%;
   margin: 10px;
   border-style: inset;
-  margin-left: 35px;
+  margin-left: 10px;
   border-radius: 10px;
 }
 

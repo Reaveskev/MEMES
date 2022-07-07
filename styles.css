@@ -20,7 +20,6 @@ body {
 } */
 
 .Yes {
-  background-color: aqua;
   width: 82px;
   height: 82px;
   border-radius: 50px;
@@ -29,7 +28,6 @@ body {
   left: 840px;
 }
 .No {
-  background-color: brown;
   width: 72px;
   height: 72px;
   border-radius: 50px;
