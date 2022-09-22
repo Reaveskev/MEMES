@@ -37,6 +37,7 @@ img {
   padding-bottom: 5%;
   order: 3;
   height: 35px;
+  cursor: pointer;
 }
 
 img:hover {

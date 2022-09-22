@@ -13,6 +13,7 @@ body {
   position: absolute;
   top: 247px;
   left: 840px;
+  cursor: pointer;
 }
 .No {
   width: 72px;
@@ -21,6 +22,7 @@ body {
   position: absolute;
   top: 212px;
   left: 1005px;
+  cursor: pointer;
 }
 
 .container {
