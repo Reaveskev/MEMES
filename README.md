@@ -11,3 +11,4 @@ This application can be used to make or look at other Memes from the imgflip API
 - Semantic HTML5 markup
 - CSS3
 - JavaScript
+- Ajax
